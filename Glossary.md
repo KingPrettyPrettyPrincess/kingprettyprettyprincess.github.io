@@ -6,7 +6,7 @@ nav_order: 3
 ---
 ## Glossary
 
-###There are a few terms we use here that are common to the anime fandom or we just plain made them up. 
+### There are a few terms we use here that are common to the anime fandom or we just plain made them up. 
 ---
 
 **BDF** - *Big Dumb Fun* 
