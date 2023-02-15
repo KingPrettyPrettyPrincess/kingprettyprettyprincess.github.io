@@ -14,6 +14,7 @@ A made up genre of anime that's just *big dumb fun*.
 
 **CGDCT** - *Cute Girls Doing Cute Things*
 Anime where the main theme of the show is watching cute girls watching cute things.
+
 Eg. K-ON, A Place Further Than The Universe, Yuru Camp
 
 **DMMK** - *Does Mitsugi’s Mom Know*
