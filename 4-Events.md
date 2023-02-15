@@ -1,9 +1,9 @@
--
+——-
 title: Events
 layout: default
 published: true
 nav_order: 4
-—
+——-
 ## Events
 
 ### There are several events that take place on the Discord server that you can get involved in.  
