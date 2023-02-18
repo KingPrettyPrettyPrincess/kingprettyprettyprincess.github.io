@@ -1,15 +1,17 @@
-——-
-title: Events
+---
+title: Glossary
 layout: default
 published: true
 nav_order: 4
-——-
+---
 ## Events
 
-### There are several events that take place on the Discord server that you can get involved in.  
-—
+### There are some social events that occur on the Discord server.
+---
 
-**Anime Club** - *Watch an anime and then join a discussion with the group*
+**Anime Club**
+Watch an anime that is assigned and then come to chat about it. Every other Wednesday at 10 PM ET. 
 
-**Trivia Night** - *Come test your knowledge of anime with Raggedy Doctor*
-Different nights may have different theme. Check the event listing in the Discord server or reach out to Raggedy Doctor for more info. 
+**Trivia Night** 
+Anime where the main theme of the show is watching cute girls watching cute things. Check the event calendar on the Discord for the next one or reach out to Raggedy Doctor for more information. 
+
