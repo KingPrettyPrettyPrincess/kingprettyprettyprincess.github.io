@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: Events
 layout: default
 published: true
 nav_order: 4
